@@ -5,8 +5,11 @@
 
 # --- Required options --- #
 
+# URL is the webpage URL
+url: https://DegenDao.github.io
+
 # Name of website
-title: DegenDao.github.io
+title: DegenDao
 
 # Your name to show in the footer
 author: Some Person
